@@ -6,5 +6,6 @@ This project aims to create a captivating and user-friendly landing page using H
 ## sample output
 ![App Screenshot](https://github.com/yuvarajan-s-16/CODSOFT/blob/main/landingpage/result.jpg?raw=true)
 ## contacts
+
 Email 1: yuvarajanyuvarajan532@gmail.com
 Email 2: yuvarajan027@gmail.com
