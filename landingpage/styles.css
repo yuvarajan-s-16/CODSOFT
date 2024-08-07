@@ -1,0 +1,150 @@
+h1
+{
+    font-size: 40px;
+}
+h3 {
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    color:red;
+    text-shadow: 2px 2px 4px #000000;
+  }
+  
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+div img{
+    width: 180px;
+    height: 130px;
+    
+}
+
+header {
+    position: relative;
+    background: url('a.jpg') no-repeat center center/cover;
+    color: white;
+    padding: 60px 0;
+    text-align: center;
+}
+.sec2{
+    background: linear-gradient(to right, #ff7e5f, black);
+    padding: 20px;
+    color: white;
+  }
+  
+.sec1
+{
+    background: linear-gradient(to right,yellow, #917bfe);
+    padding: 20px;
+    color: white;
+    
+}
+
+header .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+header .container {
+    position: relative;
+    z-index: 10;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.download-buttons {
+    margin-top: 20px;
+}
+
+.btn {
+    background-color:orange;
+    color: #4CAF50;
+    padding: 15px 30px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin: 10px;
+    display: inline-block;
+    font-size: 18px;
+    transition: background-color 0.3s ease;
+}
+
+.btn i {
+    margin-right: 10px;
+}
+
+.btn:hover {
+    background-color: #ddd;
+}
+
+.app-store {
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+
+
+
+.column {
+    flex:33.33%;
+    
+    padding: 5px;
+   
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    
+    background-color: #f4f4f4;
+    
+}
+.row {
+    
+    display: flex;
+    
+}
+
+
+footer {
+    background-color: #333;
+    color: white;
+    
+    padding: 20px 0;
+}
+
+footer .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+nav{
+    display:flex;
+    width:84%;
+    margin:auto;
+    
+    justify-content:space-between;
+
+}
+
+nav ul li{
+    display:inline-block;
+    list-style: none;
+    margin:20px 20px;
+
+}
+
+
+nav ul li a{
+    text-decoration:underline;
+    color:white;
+    font-weight: bold;
+
+}
+
+nav ul li a:hover{
+    color:blue;
+}
