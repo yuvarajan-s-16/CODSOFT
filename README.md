@@ -10,8 +10,8 @@ This project aims to create a captivating and user-friendly landing page using H
 
 In this task, you will build your personal portfolio website to showcase your skills, projects, and achievements as a web developer. Your portfolio is a reflection of your professional identity, so make it stand out with these features:
 ## sample output 
-![App Screenshot](![App Screenshot](https://github.com/yuvarajan-s-16/CODSOFT/blob/main/landingpage/result.jpg?raw=true)
-)
+![App Screenshot](https://github.com/yuvarajan-s-16/CODSOFT/blob/main/portfolio/includes/output.png?raw=true)
+
 
 ## contacts
 
