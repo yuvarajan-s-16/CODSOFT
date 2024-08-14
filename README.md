@@ -12,6 +12,11 @@ In this task, you will build your personal portfolio website to showcase your sk
 ## sample output 
 ![App Screenshot](https://github.com/yuvarajan-s-16/CODSOFT/blob/main/portfolio/includes/output.png?raw=true)
 
+## Task 3 - "Calculator"
+
+This task focuses on building a fully functional calculator website using HTML, CSS, and JavaScript. The calculator should be capable of performing basic arithmetic operations and more complex calculations.
+## sample output
+![App Screenshot](https://github.com/yuvarajan-s-16/CODSOFT/blob/main/calculator/assets/output.png?raw=true)
 
 ## contacts
 
